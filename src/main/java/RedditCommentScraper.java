@@ -27,7 +27,7 @@ public class RedditCommentScraper {
 	// variables to change for personalization
 	static String url = "https://www.reddit.com/r/AskReddit/comments/2b55qg/whats_your_favorite_dark_humor_joke/";
 	static String path = ""; // Path to the new files location: can be empty
-	static String fileName = "darkJokes.txt";
+	static String fileName = "darkJokes.json";
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
